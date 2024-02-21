@@ -1,0 +1,2 @@
+# leaning
+practice simple programs
